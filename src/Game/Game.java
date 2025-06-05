@@ -64,7 +64,7 @@ public class Game
         return 0;
     }
 
-    private void ShiftArrRight(int[] array)
+    private void ShiftArrLeft(int[] array)
     {
         
     }
